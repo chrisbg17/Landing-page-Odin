@@ -1,0 +1,116 @@
+.Header {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #1F2937;
+    
+}
+
+.left {
+    display: flex;
+    flex: auto;
+}
+
+.Logo {
+    
+    align-self: center;
+    font-size: 24px;
+    color: white;
+    padding: 48px;
+    padding-top: 20px;
+    
+}
+
+.Nav {
+    display: flex;
+    list-style-type: none;
+    gap: 12px;
+    flex-grow: 1;
+    justify-content: flex-end;
+    align-items: center;
+    margin-right: 20px;
+    padding-bottom: 20px;
+}
+
+img {
+    width: 600px;
+    max-width: 600px;
+    height: 300px;
+    flex-shrink: 1;
+    padding-left: 50px;
+    
+}
+
+.Under {
+    display: flex;
+    align-items: center;
+    padding: 48px ;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.Main {
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: 900;
+    max-width: 400px;
+    height: 300px;
+    
+    
+}
+
+.Sub {
+    font-size: 18px;
+    color: #8c8c8d;
+    
+    
+}
+
+.Sign {
+    margin-top: 8px;
+    padding-right: 20px;
+    min-width: 100px;
+    padding: 10px;
+    background-color: #3882F6;
+    color: white;
+    border-radius: 12px;
+}
+
+a {
+    text-decoration: none;
+    color: #8c8c8d;
+}
+
+.information {
+    display: flex;
+    justify-content: center;
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 900;
+    margin-top: 30px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    gap: 40px;
+}
+
+.box {
+    height: 200px;
+    border: 2px solid #3882F6;
+    width: 200px;
+    border-radius: 12px;
+}
+
+.text {
+    margin-top: 7px;
+    max-width: 200px;
+}
+
+
+
+
+
+
+
+
