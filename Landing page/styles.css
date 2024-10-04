@@ -177,5 +177,16 @@ a {
     color: #c3c3c5;
 }
 
+.header5 {
+    background-color: #1F2937;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 
+.footer {
+    color: #aeaeaf;
+    display: flex;
+}
 
